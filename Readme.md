@@ -10,6 +10,10 @@ An apple is a fruit.
 
 A dog is not a fruit.
 
+## Section 3
+
+Everything is a fruit.
+
 ## Conclustion
 
 Bye, bye!
