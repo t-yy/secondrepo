@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ## May be conflict.
 <<<<<<< HEAD
 Hello.
 =======
 Good night.
 >>>>>>> Edit unmerged_file.
+=======
+## Solved the conflict.
+Good night.
+Hello.
+>>>>>>> ba0d652692cf0b4ccc49977704ded15c3c6bfd06
